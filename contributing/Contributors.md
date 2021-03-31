@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Sanket Vyawahare](https://github.com/imsanketvyawahare)
+- [Heena Singh](https://github.com/evanessa234)
 - [Riyadh Ouz](https://github.com/riyadh20)
 - [Nathan Taylor](https://github.com/pecan.pine)
 - [Hakeem Gayle](https://github.com/hakeem123)
